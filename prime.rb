@@ -1,6 +1,6 @@
 # Add  code here!
 def prime? (array)
-  array.select do |prime|
+  array.include? do |prime|
     prime.include?
   end
 end
