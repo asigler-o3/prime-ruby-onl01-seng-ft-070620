@@ -1,5 +1,5 @@
 # Add  code here!
 def prime? (array)
-  array.prime? do |prime|
+  if n < 0
   end
 end
