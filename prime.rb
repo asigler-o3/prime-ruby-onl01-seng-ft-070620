@@ -5,5 +5,5 @@ def prime? (n)
   else n > 1
     (2..n - 1).to_a.all? {|num| n % num != 0}
   end
-  end
+ end
 end
